@@ -1,4 +1,4 @@
-package com.simplilearn.collections.list.task;
+package com.simplilearn.collections.queue.task;
 
 public class TaskQueue {
 	// TODO : WAP for creating task type of queue
